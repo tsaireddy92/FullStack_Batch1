@@ -1,0 +1,28 @@
+
+.login-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        background-color: #ADD8E6;
+        margin: 0;
+}
+.label{
+     margin-right: 50px;
+}
+.label-pwd{
+  margin-right: 60px;
+}
+.input {
+    margin: 20px;
+}
+.btn{
+width: 100px;
+height: 35px;
+margin-left: 50%;
+}
+.invalid-feedback{
+margin-left: 43%;
+color: red;
+}
